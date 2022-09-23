@@ -5,5 +5,6 @@ public class ExtendedClass extends FirstClass{
 
         set(15);
         System.out.println(get());
+        System.out.println("Hello");
     }
 }
