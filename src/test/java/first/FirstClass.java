@@ -3,6 +3,7 @@ package first;
 public class FirstClass {
     private static int a;
 	public static int g;
+	public static int l;
 
     public static void set (int value) {
         a = value;
