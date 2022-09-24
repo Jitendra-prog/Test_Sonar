@@ -1,8 +1,7 @@
 second\SecondClass.class
-compositionExample\Main.class
 example\FrontEndDeveloper.class
-compositionExample\Employee.class
-compositionExample\Account.class
+java\compositionExample\Main.class
+java\compositionExample\Test.class
 second\ExtendedClass.class
 example\Developer.class
 example\Project.class

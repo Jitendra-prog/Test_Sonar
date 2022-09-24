@@ -1,4 +1,4 @@
-package compositionExample;
+package java.compositionExample;
 class Test {
 
 int i;
@@ -24,5 +24,6 @@ class Main {
 
     // call the instanceMethod()
     Test.instanceMethod();
+    System.out.println("Hello");
   }
 }
