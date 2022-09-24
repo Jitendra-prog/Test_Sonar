@@ -24,5 +24,6 @@ class Main {
 
     // call the instanceMethod()
     Test.instanceMethod();
+    System.out.println("Hello");
   }
 }
