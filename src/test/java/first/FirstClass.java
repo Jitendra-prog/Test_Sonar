@@ -15,7 +15,7 @@ public class FirstClass {
     public static void main(String args[]) {
         FirstClass firstClass = new FirstClass();
         firstClass.set(5);
-        System.out.println(firstClass.get());
+        System.out.println("Hello");
     }
 }
 
