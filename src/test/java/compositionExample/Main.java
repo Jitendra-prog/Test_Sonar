@@ -1,4 +1,4 @@
-package compositionExample;
+package java.compositionExample;
 class Test {
 
 int i;
