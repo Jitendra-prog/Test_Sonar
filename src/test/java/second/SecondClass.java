@@ -6,6 +6,6 @@ public class SecondClass {
         FirstClass firstClass = new FirstClass();
         firstClass.set(10);
         System.out.println(firstClass.get());
-        System.out.println("hello6");
+        System.out.println("hello7");
     }
 }
